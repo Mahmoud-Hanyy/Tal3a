@@ -1,16 +1,16 @@
-# tal3a
+# 🚀 Tal3a - Your Ultimate Outing Guide in Alexandria  
 
-A new Flutter project.
+Hi, I'm developing **Tal3a**, a **Flutter-powered** mobile app designed to help users discover the best **restaurants and hangout spots** in **Alexandria, Egypt**.  
 
-## Getting Started
+## 🔥 About Me  
+- 💡 Passionate about **mobile development** and building real-world solutions.  
+- 🎨 Focused on delivering a smooth **UI/UX** experience with **Flutter**.  
+- 🚀 Currently working on launching **Tal3a** on the **Google Play Store**.  
 
-This project is a starting point for a Flutter application.
+## 🛠 Tech Stack  
+- **Frontend:** Flutter (Dart)  
+- **Backend:** Firebase, Node.js (Planned)  
+- **Database:** Firebase Firestore  
+- **APIs:** Google Maps API  
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+📩 *Stay tuned for updates! Feel free to contribute or share feedback.*  
